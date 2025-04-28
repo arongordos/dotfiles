@@ -1,0 +1,6 @@
+brew "git"
+cask "google-chrome"
+cask "visual-studio-code"
+cask "iterm2"
+cask "docker"
+cask "1password"

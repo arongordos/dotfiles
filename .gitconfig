@@ -1,0 +1,7 @@
+[user]
+	name = Aron Gordos
+	email = g.aron199410@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	editor = code --wait
