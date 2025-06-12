@@ -1,0 +1,7 @@
+brew "git"
+cask "1password"
+cask "docker"
+cask "google-chrome"
+cask "httpie"
+cask "visual-studio-code"
+cask "warp"
